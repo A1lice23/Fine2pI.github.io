@@ -1,5 +1,5 @@
 #Blog Post
 ## My first Blog Post
-* Post1
-* Post2
-* Post3
+1. Post1
+2. Post2
+3. Post3
