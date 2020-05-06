@@ -1,3 +1,4 @@
+remote_theme : poole/hyde
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
@@ -7,11 +8,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Title
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://fine2pi.github.io
-baseurl:          /
+description:      "aaa"
+url:              "https://fine2pi.github.io"
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
@@ -25,4 +26,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
   
-remote_theme : poole/hyde
+
